@@ -1,0 +1,1 @@
+﻿document.write('<footer class="jumbotron navbar">stuff</footer>')
