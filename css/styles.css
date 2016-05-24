@@ -137,4 +137,6 @@ a.effect:hover, a.effect:active {
     font-weight: bold;
 }
 
-
+.notFound {
+    height: 400px;
+}
