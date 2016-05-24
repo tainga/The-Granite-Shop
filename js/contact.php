@@ -25,7 +25,7 @@ End of message
 
 mail($myemail, $subject, $message);
 
-header('Location: formsent.html');
+header('Location: ../formsent.html');
 exit();
 function check_input($data, $problem='')
 {

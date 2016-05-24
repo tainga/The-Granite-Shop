@@ -121,7 +121,7 @@ h1, h2 {
     width: 100%;
 }
 
-footer.jumbotron.navbar {
+footer.jumbotron.navbar.row {
     margin-top: 40px;
     height: 260px;
 }
@@ -136,3 +136,5 @@ a.effect:hover, a.effect:active {
     letter-spacing: 1px;
     font-weight: bold;
 }
+
+
